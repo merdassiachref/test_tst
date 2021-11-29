@@ -1,0 +1,24 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+  width: 100%;
+  background-color: #8ec5fc;
+  background-image: linear-gradient(62deg, #8ec5fc 0%, #e0c3fc 100%);
+  padding: 3%;
+}
+.app_header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.value_field {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+footer{
+
+}
